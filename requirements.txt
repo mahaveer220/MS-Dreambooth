@@ -1,0 +1,9 @@
+torchvision
+transformers>=4.21.0
+ftfy
+tensorboard
+modelcards
+accelerate==0.12.0
+bitsandbytes 
+gradio 
+natsort

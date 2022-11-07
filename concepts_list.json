@@ -1,0 +1,27 @@
+[
+    {
+        "instance_prompt":      "photo of lmwq cat",
+        "class_prompt":         "photo of a cat",
+        "instance_data_dir":    "/data/lmwq cat",
+        "class_data_dir":       "/data/cat"
+    },
+    {
+        "instance_prompt":      "photo of huop cap",
+        "class_prompt":         "photo of a cap",
+        "instance_data_dir":    "/data/huop cap",
+        "class_data_dir":       "/data/cap"
+    },
+    {
+        "instance_prompt":      "photo of yted ball",
+        "class_prompt":         "photo of a ball",
+        "instance_data_dir":    "/data/yted ball",
+        "class_data_dir":       "/data/ball"
+    },
+    {
+        "instance_prompt":      "photo of dfez dice",
+        "class_prompt":         "photo of dice",
+        "instance_data_dir":    "/data/dfez dice",
+        "class_data_dir":       "/data/dice"
+    }
+
+]
