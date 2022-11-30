@@ -1,27 +1,40 @@
 [
-    {
-        "instance_prompt":      "photo of lmwq cat",
-        "class_prompt":         "photo of a cat",
-        "instance_data_dir":    "/data/lmwq cat",
-        "class_data_dir":       "/data/cat"
-    },
-    {
-        "instance_prompt":      "photo of huop cap",
-        "class_prompt":         "photo of a cap",
-        "instance_data_dir":    "/data/huop cap",
-        "class_data_dir":       "/data/cap"
-    },
-    {
-        "instance_prompt":      "photo of yted ball",
-        "class_prompt":         "photo of a ball",
-        "instance_data_dir":    "/data/yted ball",
-        "class_data_dir":       "/data/ball"
-    },
-    {
-        "instance_prompt":      "photo of dfez dice",
-        "class_prompt":         "photo of dice",
-        "instance_data_dir":    "/data/dfez dice",
-        "class_data_dir":       "/data/dice"
-    }
+{
+    "instance_prompt":      "photo of mtr dog",
+    "class_prompt":         "photo of a dog",
+    "instance_data_dir":    "/content/data/mtr dog",
+    "class_data_dir":       "/content/data/dog"
+},
+{
+     "instance_prompt":      "photo of pbt catwoman",
+     "class_prompt":         "photo of catwoman",
+     "instance_data_dir":    "/content/data/pbt catwoman",
+     "class_data_dir":       "/content/data/catwoman"
+},
+{
+    "instance_prompt":      "photo of bmt man",
+    "class_prompt":         "photo of a man",
+    "instance_data_dir":    "/content/data/bmt man",
+    "class_data_dir":       "/content/data/man"
+},
+{
+    "instance_prompt":      "photo of rbp bike",
+    "class_prompt":         "photo of a bike",
+    "instance_data_dir":    "/content/data/rbp bike",
+    "class_data_dir":       "/content/data/bike"
+},
+{
+    "instance_prompt":      "photo of ktp cat",
+    "class_prompt":         "photo of a cat",
+    "instance_data_dir":    "/content/data/ktp cat",
+    "class_data_dir":       "/content/data/cat"
+},
+ {
+    "instance_prompt":      "photo of lmw ball",
+    "class_prompt":         "photo of a ball",
+    "instance_data_dir":    "/content/data/lmw ball",
+    "class_data_dir":       "/content/data/ball"
+},
+
 
 ]
