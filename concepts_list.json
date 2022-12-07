@@ -34,7 +34,6 @@
     "class_prompt":         "photo of a ball",
     "instance_data_dir":    "/content/data/lmw ball",
     "class_data_dir":       "/content/data/ball"
-},
-
+}
 
 ]
